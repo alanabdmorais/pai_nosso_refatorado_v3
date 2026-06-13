@@ -1,0 +1,299 @@
+{
+  "1": {
+    "inicio": "00:00:00,160",
+    "fim": "00:00:05,894",
+    "texto_original": "Our Father who art in heaven,",
+    "palavras": [
+      {
+        "texto": "Our",
+        "classe": "pronome_possessivo_singular"
+      },
+      {
+        "texto": "Father",
+        "classe": "substantivo_masculino_singular"
+      },
+      {
+        "texto": "who",
+        "classe": "pronome_relativo"
+      },
+      {
+        "texto": "art",
+        "classe": "verbo_presente"
+      },
+      {
+        "texto": "in",
+        "classe": "preposicao"
+      },
+      {
+        "texto": "heaven",
+        "classe": "substantivo_masculino_singular"
+      }
+    ]
+  },
+  "2": {
+    "inicio": "00:00:02,720",
+    "fim": "00:00:08,679",
+    "texto_original": "hallowed be thy name,",
+    "palavras": [
+      {
+        "texto": "hallowed",
+        "classe": "adjetivo_normal"
+      },
+      {
+        "texto": "be",
+        "classe": "verbo_presente"
+      },
+      {
+        "texto": "thy",
+        "classe": "pronome_possessivo_singular"
+      },
+      {
+        "texto": "name",
+        "classe": "substantivo_masculino_singular"
+      }
+    ]
+  },
+  "3": {
+    "inicio": "00:00:05,894",
+    "fim": "00:00:11,799",
+    "texto_original": "thy kingdom come,",
+    "palavras": [
+      {
+        "texto": "thy",
+        "classe": "pronome_possessivo_singular"
+      },
+      {
+        "texto": "kingdom",
+        "classe": "substantivo_masculino_singular"
+      },
+      {
+        "texto": "come",
+        "classe": "verbo_presente"
+      }
+    ]
+  },
+  "4": {
+    "inicio": "00:00:08,679",
+    "fim": "00:00:14,420",
+    "texto_original": "thy will be done, on earth as it is in",
+    "palavras": [
+      {
+        "texto": "thy",
+        "classe": "pronome_possessivo_singular"
+      },
+      {
+        "texto": "will",
+        "classe": "substantivo_masculino_singular"
+      },
+      {
+        "texto": "be",
+        "classe": "verbo_presente"
+      },
+      {
+        "texto": "done",
+        "classe": "adjetivo_normal"
+      },
+      {
+        "texto": "on",
+        "classe": "preposicao"
+      },
+      {
+        "texto": "earth",
+        "classe": "substantivo_feminino_singular"
+      },
+      {
+        "texto": "as",
+        "classe": "conjuncao"
+      },
+      {
+        "texto": "it",
+        "classe": "pronome_pessoal"
+      },
+      {
+        "texto": "is",
+        "classe": "verbo_presente"
+      },
+      {
+        "texto": "in",
+        "classe": "preposicao"
+      }
+    ]
+  },
+  "5": {
+    "inicio": "00:00:11,799",
+    "fim": "00:00:17,160",
+    "texto_original": "heaven.  Give us this day our daily bread",
+    "palavras": [
+      {
+        "texto": "heaven",
+        "classe": "substantivo_masculino_singular"
+      },
+      {
+        "texto": "Give",
+        "classe": "verbo_imperativo"
+      },
+      {
+        "texto": "us",
+        "classe": "pronome_pessoal"
+      },
+      {
+        "texto": "this",
+        "classe": "pronome_demonstrativo"
+      },
+      {
+        "texto": "day",
+        "classe": "substantivo_masculino_singular"
+      },
+      {
+        "texto": "our",
+        "classe": "pronome_possessivo_plural"
+      },
+      {
+        "texto": "daily",
+        "classe": "adjetivo_normal"
+      },
+      {
+        "texto": "bread",
+        "classe": "substantivo_masculino_singular"
+      }
+    ]
+  },
+  "6": {
+    "inicio": "00:00:14,420",
+    "fim": "00:00:18,760",
+    "texto_original": ".  Forgive us our",
+    "palavras": [
+      {
+        "texto": "Forgive",
+        "classe": "verbo_imperativo"
+      },
+      {
+        "texto": "us",
+        "classe": "pronome_pessoal"
+      },
+      {
+        "texto": "our",
+        "classe": "pronome_possessivo_singular"
+      }
+    ]
+  },
+  "7": {
+    "inicio": "00:00:17,160",
+    "fim": "00:00:20,920",
+    "texto_original": "trespasses,",
+    "palavras": [
+      {
+        "texto": "trespasses",
+        "classe": "substantivo_masculino_plural"
+      }
+    ]
+  },
+  "8": {
+    "inicio": "00:00:18,760",
+    "fim": "00:00:22,400",
+    "texto_original": "as we forgive those who",
+    "palavras": [
+      {
+        "texto": "as",
+        "classe": "artigo_definido"
+      },
+      {
+        "texto": "we",
+        "classe": "pronome_pessoal"
+      },
+      {
+        "texto": "forgive",
+        "classe": "verbo_presente"
+      },
+      {
+        "texto": "those",
+        "classe": "pronome_pessoal"
+      },
+      {
+        "texto": "who",
+        "classe": "pronome_relativo"
+      }
+    ]
+  },
+  "9": {
+    "inicio": "00:00:20,920",
+    "fim": "00:00:25,545",
+    "texto_original": "trespass against us.",
+    "palavras": [
+      {
+        "texto": "trespass",
+        "classe": "substantivo_masculino_singular"
+      },
+      {
+        "texto": "against",
+        "classe": "preposicao"
+      },
+      {
+        "texto": "us",
+        "classe": "pronome_pessoal"
+      }
+    ]
+  },
+  "10": {
+    "inicio": "00:00:22,400",
+    "fim": "00:00:29,560",
+    "texto_original": "And lead us not into temptation, but",
+    "palavras": [
+      {
+        "texto": "And",
+        "classe": "verbo_presente"
+      },
+      {
+        "texto": "lead",
+        "classe": "verbo_presente"
+      },
+      {
+        "texto": "us",
+        "classe": "pronome_pessoal"
+      },
+      {
+        "texto": "not",
+        "classe": "advérbio_normal"
+      },
+      {
+        "texto": "into",
+        "classe": "preposicao"
+      },
+      {
+        "texto": "temptation",
+        "classe": "substantivo_feminino_singular"
+      },
+      {
+        "texto": "but",
+        "classe": "conjuncao"
+      }
+    ]
+  },
+  "11": {
+    "inicio": "00:00:25,545",
+    "fim": "00:00:29,560",
+    "texto_original": "deliver us from evil.  Amen. M.",
+    "palavras": [
+      {
+        "texto": "deliver",
+        "classe": "verbo_imperativo"
+      },
+      {
+        "texto": "us",
+        "classe": "pronome_pessoal"
+      },
+      {
+        "texto": "from",
+        "classe": "preposicao"
+      },
+      {
+        "texto": "evil",
+        "classe": "substantivo_masculino_singular"
+      },
+      {
+        "texto": "Amen",
+        "classe": "substantivo_masculino_singular"
+      }
+    ]
+  }
+}
